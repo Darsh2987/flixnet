@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/flix-net/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/flix-net/static/js/main.79a27162.chunk.js",
-    "main.js.map": "/flix-net/static/js/main.79a27162.chunk.js.map",
-    "runtime-main.js": "/flix-net/static/js/runtime-main.6691ec68.js",
-    "runtime-main.js.map": "/flix-net/static/js/runtime-main.6691ec68.js.map",
-    "static/js/2.95067b6f.chunk.js": "/flix-net/static/js/2.95067b6f.chunk.js",
-    "static/js/2.95067b6f.chunk.js.map": "/flix-net/static/js/2.95067b6f.chunk.js.map",
-    "static/js/3.eb9825e6.chunk.js": "/flix-net/static/js/3.eb9825e6.chunk.js",
-    "static/js/3.eb9825e6.chunk.js.map": "/flix-net/static/js/3.eb9825e6.chunk.js.map",
-    "index.html": "/flix-net/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/flix-net/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.95067b6f.chunk.js.LICENSE.txt": "/flix-net/static/js/2.95067b6f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/flix-net/static/media/logo.6ce24c58.svg"
+    "main.css": "/flixnet/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/flixnet/static/js/main.79a27162.chunk.js",
+    "main.js.map": "/flixnet/static/js/main.79a27162.chunk.js.map",
+    "runtime-main.js": "/flixnet/static/js/runtime-main.e76c5cf4.js",
+    "runtime-main.js.map": "/flixnet/static/js/runtime-main.e76c5cf4.js.map",
+    "static/js/2.95067b6f.chunk.js": "/flixnet/static/js/2.95067b6f.chunk.js",
+    "static/js/2.95067b6f.chunk.js.map": "/flixnet/static/js/2.95067b6f.chunk.js.map",
+    "static/js/3.eb9825e6.chunk.js": "/flixnet/static/js/3.eb9825e6.chunk.js",
+    "static/js/3.eb9825e6.chunk.js.map": "/flixnet/static/js/3.eb9825e6.chunk.js.map",
+    "index.html": "/flixnet/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/flixnet/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.95067b6f.chunk.js.LICENSE.txt": "/flixnet/static/js/2.95067b6f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/flixnet/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6691ec68.js",
+    "static/js/runtime-main.e76c5cf4.js",
     "static/js/2.95067b6f.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.79a27162.chunk.js"
