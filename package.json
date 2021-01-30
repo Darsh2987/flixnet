@@ -13,7 +13,7 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://darsh2987.github.io/flix-net/",
+  "homepage": "https://darsh2987.github.io/flixnet/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
