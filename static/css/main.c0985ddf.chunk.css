@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}body{font-family:"Roboto",sans-serif}.row{margin-left:2rem}.row-posters{display:flex;overflow-y:hidden;overflow-x:scroll;padding:2rem}.row-posters::-webkit-scrollbar{display:none}.row-poster{width:100%;max-height:100px;object-fit:contain;margin-right:1rem;transition:transform .45s}.row-poster:hover{transform:scale(1.08)}.row-poster--large{max-height:250px}
+/*# sourceMappingURL=main.c0985ddf.chunk.css.map */
