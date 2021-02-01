@@ -1,11 +1,12 @@
 import "./App.scss";
 import Row from "./components/Row";
+import requests from "./requests";
 
 function App() {
   return (
     <div className="App">
-      <Row title="NETFLIX ORIGINALS" />
-      <Row title="Trending Now" />
+      <Row title="NETFLIX ORIGINALS" fetchUrl={requests.fetchNetflixOriginals} />
+      <Row title="Trending Now" fetchUrl={requests.fetchTrending} />
     </div>
   );
 }
