@@ -1,10 +1,12 @@
 import "./App.scss";
-import Row from "./components/Row";
 import requests from "./requests";
+import Row from "./components/Row";
+import Banner from "./components/Banner";
 
 function App() {
   return (
     <div className="app">
+      <Banner />
       <Row title="FLIXNET ORIGINALS" fetchUrl={requests.fetchNetflixOriginals} isLargeRow={true} />
       <Row title="Trending Now" fetchUrl={requests.fetchTrending} />
       <Row title="Top Rated" fetchUrl={requests.fetchTopRated} />
