@@ -1,0 +1,10 @@
+.nav {
+  padding: 1rem;
+  background-image: linear-gradient(0deg, transparent, rgba(0, 0, 0, 0.65), #000);
+
+  &__logo a {
+    color: red;
+    text-decoration: none;
+    letter-spacing: 0.1rem;
+  }
+}

@@ -1,7 +1,7 @@
 import "./App.scss";
 import requests from "./requests";
-import Row from "./components/Row";
 import Banner from "./components/Banner";
+import Row from "./components/Row";
 
 function App() {
   return (

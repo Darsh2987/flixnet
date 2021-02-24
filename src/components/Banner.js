@@ -2,6 +2,8 @@ import React, { useState, useEffect } from "react";
 import axios from "../axios";
 import requests from "../requests";
 
+import Nav from "./Nav";
+
 function Banner() {
   const [movie, setMovie] = useState([]);
 
@@ -29,6 +31,8 @@ function Banner() {
         backgroundPosition: "top center",
       }}
     >
+      <Nav />
+
       <div className="banner__contents">
         <h1 className="banner__title">{movie?.title || movie?.name || movie?.original_name}</h1>
         <p className="banner__description">{truncate(movie?.overview, 150)}</p>
